@@ -4,7 +4,7 @@ Bringing all Quantum Algorithms under one Roof ⚡
 
 <p align="center">
 <!--img src="img/neo_algo.png" /><br-->
-<a href="https://github.com/qpower-msp/QPowerAlgo/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/github/license/tesseractcoding/neoalgo?style=for-the-badge" /></a> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome" /> <a href="https://github.com/qpower-msp/QPowerAlgo/pulls" target="_blank"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/qpower-msp/qpoweralgo?style=for-the-badge" /></a> <a href="https://github.com/qpower-msp/QPowerAlgo/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/qpower-msp/qpoweralgo?style=for-the-badge" /></a> <a href="https://github.com/qpower-msp/QPowerAlgo/blob/master/README.md#contributors-" target="_blank"><img alt="Github All Contributors" src="https://img.shields.io/github/all-contributors/qpower-msp/qpoweralgo?style=for-the-badge" /></a>
+<a href="https://github.com/qpower-msp/QPowerAlgo/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/github/license/tesseractcoding/neoalgo?style=for-the-badge" /></a> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome" /> 
 </p>
 
 ## Overview
@@ -19,15 +19,14 @@ Our content is divided by quantum computing frameworks. Please create an issue i
 
 Also, we are accepting submissions to our [Wiki](https://github.com/TesseractCoding/NeoAlgo/wiki) section. Please let us know if you'd like to contribute to an article.
 
-- [C](/C/README.md)
-- [C-Plus-Plus](/C-Plus-Plus/README.md)
-- [C-Sharp](/C-Sharp/README.md)
-- [Go](/Go/README.md)
-- [JavaScript](/JavaScript/README.md)
-- [Java](/Java/README.md)
-- [Python](/Python/README.md)
-- [Q-Sharp](/Q-Sharp/README.md)
-- [Miscellaneous](/Miscellaneous)
+- [Qiskit](/qiskit/README.md)
+- [Q#](/qsharp/README.md)
+- [Cirq](/cirq/README.md)
+- [Pennylane](/pennylane/README.md)
+- [Ocean](/ocean/README.md)
+- [Forest](/forest/README.md)
+- [Strawberry Fields](/strawberryfields/README.md)
+- [Miscellaneous](/Miscellaneous/README.md)
 
 ## Contributing Guidelines
 

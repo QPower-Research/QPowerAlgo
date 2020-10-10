@@ -17,7 +17,7 @@ In case you have any questions, feel free to tag one of the repo admins in your 
 
 Our content is divided by quantum computing frameworks. Please create an issue if you wish to add code in a framework that we don't currently have here. **Do not create folders in your submissions, unless specifically told to do so.**
 
-Also, we are accepting submissions to our [Wiki](https://github.com/TesseractCoding/NeoAlgo/wiki) section. Please let us know if you'd like to contribute to an article.
+Also, we are accepting submissions to our [Wiki](https://github.com/QPower-Research/QPowerAlgo/wiki) section. Please let us know if you'd like to contribute to an article.
 
 - [Qiskit](/qiskit/README.md)
 - [Q#](/qsharp/README.md)

@@ -1,1 +1,1 @@
-#Strawberry Fields, a Quantum optics framework from Xanadu
+## Strawberry Fields, a Quantum optics framework from Xanadu

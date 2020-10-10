@@ -23,8 +23,6 @@ Also, we are accepting submissions to our [Wiki](https://github.com/TesseractCod
 - [Q#](/qsharp/README.md)
 - [Cirq](/cirq/README.md)
 - [Pennylane](/pennylane/README.md)
-- [Ocean](/ocean/README.md)
-- [Forest](/forest/README.md)
 - [Strawberry Fields](/strawberryfields/README.md)
 - [Miscellaneous](/Miscellaneous/README.md)
 

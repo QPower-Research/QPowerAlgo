@@ -19,9 +19,9 @@ The Bernstein–Vazirani algorithm, which solves the Bernstein–Vazirani proble
 
 Some great resources to understand the algorithm and implement with qiskit:
 
-Qiskit Textbook
-Medium
-Programming with Qiskit
+- Qiskit Textbook
+- Medium
+- Programming with Qiskit
 
 ## Deutsch-Jozsa Algoruithm
 _add list here_

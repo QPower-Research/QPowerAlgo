@@ -26,9 +26,11 @@ The Bernstein–Vazirani algorithm, which solves the Bernstein–Vazirani proble
 
 Some great resources to understand the algorithm and implement with qiskit:
 
+
 - [Qiskit Textbook](https://qiskit.org/textbook/ch-algorithms/bernstein-vazirani.html)
 - [Medium](https://medium.com/@lana.bozanic/the-bernstein-vazirani-algorithm-9f5fc9d0518e)
 - [Programming with Qiskit](https://www.youtube.com/watch?v=sqJIpHYl7oo)
+
 
 
 ## Deutsch-Jozsa Algoruithm

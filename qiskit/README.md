@@ -31,8 +31,18 @@ Some great resources to understand the algorithm and implement with qiskit:
 - [Programming with Qiskit](https://www.youtube.com/watch?v=sqJIpHYl7oo)
 
 
-## Deutsch-Jozsa Algoruithm
-_add list here_
+## Deutsch-Jozsa Algorithm
+The Deutsch-Jozsa algorithm was the first example of a quantum algorithm that performs better than the best classical algorithm. It showed that there can be advantages to using a quantum computer as a computational tool for a specific problem. 
+
+The Deutsch-Josza algorithm is a simple example of a quantum algorithm that can be used to speed up a search. It determines whether or not a function has a certain property (balanced). The algorithm achieves this by requiring that the function need only be called once with a quantum algorithm instead of twice with a classical algorithm. When the function is very 'expensive', e.g., in terms of computational resources, it can be very beneficial if you have to compute this function only once instead of twice.
+
+Although the speed-up of this specific algorithm is only a factor of 2, other quantum algorithms, using the same quantum mechanical effects, can achieve a polynomial or even an exponential speed-up compared to classical algorithms.
+
+Some great resources to understand the algorithm and implement with qiskit:
+- [Qiskit Textbook](https://qiskit.org/textbook/ch-algorithms/deutsch-jozsa.html)
+- [Medium](https://www.quantum-inspire.com/kbase/deutsch-jozsa-algorithm/)
+- [Deutsch Algorithm Explained](https://www.youtube.com/watch?v=5xsyx-aNClM)
+- [Deutsch Algorithm w/ Qiskit Walkthrough](https://www.youtube.com/watch?v=_BHvE_pwF6E&list=PLQVvvaa0QuDc79w6NcGB0pnoJBgaKdfrW&index=3)
 
 
 ## Quantum Teleportation

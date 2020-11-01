@@ -32,6 +32,10 @@ Some great resources to understand the algorithm and implement with qiskit:
 
 
 ## Deutsch-Jozsa Algoruithm
+_add list here_
+
+
+## Quantum Teleportation
 
 Quantum teleportation is a demonstration of what Albert Einstein famously called "spooky action at a distance"—also known as quantum entanglement. In entanglement—one of the basic of concepts of quantum physics—the properties of one particle affect the properties of another, even when the particles are separated by a large distance. Quantum teleportation involves two distant, entangled particles in which the state of a third particle instantly "teleports" its state to the two entangled particles.
 
@@ -43,9 +47,6 @@ Some great resources to understand and implement with qiskit:
 - [Quantum Teleportation Programming with Qiskit](https://www.youtube.com/watch?v=mMwovHK2NrE)
 - [Quantum Teleportation explained with No Cloning Theory (short)](https://www.youtube.com/watch?v=AbmH1xTn2N0)
 - [Quantum Teleportation explained (long)](https://www.youtube.com/watch?v=3nburCsAnmo)
-
-## Quantum Teleportation
-_add list here_
 
 ## VQC(Variational Quantum Classifier)
 _add list here_

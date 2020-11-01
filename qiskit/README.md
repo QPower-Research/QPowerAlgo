@@ -9,7 +9,12 @@ _add list here_
 _add list here_
 
 ## Shor's Factorization
-_add list here_
+Shor’s algorithm is famous for factoring integers in polynomial time. Since the best-known classical algorithm requires superpolynomial time to factor the product of two primes, the widely used cryptosystem, RSA, relies on factoring being impossible for large enough integers.
+
+The textbook link below contains more information about the algorithm, along with its implementation with Qiskit.
+
+- [Qiskit Textbook](https://qiskit.org/textbook/ch-algorithms/shor.html)
+
 
 ## Quantum Key Distribution
 Quantum key distribution (QKD) is a secure communication method which implements a cryptographic protocol involving components of quantum mechanics. It enables two parties to produce a shared random secret key known only to them, which can then be used to encrypt and decrypt messages. It is often incorrectly called quantum cryptography, as it is the best-known example of a quantum cryptographic task. By using quantum superpositions or quantum entanglement and transmitting information in quantum states, a communication system can be implemented that detects eavesdropping. If the level of eavesdropping is below a certain threshold, a key can be produced that is guaranteed to be secure (i.e., the eavesdropper has no information about it), otherwise no secure key is possible and communication is aborted.

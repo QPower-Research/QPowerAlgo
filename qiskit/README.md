@@ -66,5 +66,14 @@ Some great resources to understand and implement with qiskit:
 ## VQC(Variational Quantum Classifier)
 _add list here_
 
-## Other
-_add list here_
+## Quantum Random Walk
+
+Quantum walks are considered the quantum analogue of classical walks, which are useful for developing classical randomized algorithms. Quantum walks have already proved useful for designing quantum algorithms. The most general definition of a quantum walk on a graph demands that its time evolution obey the laws of quantum mechanics and is constrained by graph locality.
+
+Suppose we have n qubit quatum state where the first qubit act as a coin with two equal probabality possibilities of spin up or spin down. depending on the spin of the coin qubit, rest of the system either take a step forward or backward. If we measure our resultant state after every step, we will have usual classical random walk. But, the key idea behind quantum random walks is to iterate the step we have introduced without resorting to intermediate measurements.
+
+For further details look into the following great works:
+- [Quantum Random Walk](https://drive.google.com/file/d/1alJ133yhpLKjtPP-jMhdX-8MEC6HHzKU/view?usp=sharing)
+- [QRW](https://drive.google.com/file/d/11xIcgGteIAFl-RWgoVHbcvXv2siLEjEK/view?usp=sharing)
+
+
